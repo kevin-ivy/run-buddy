@@ -448,8 +448,8 @@ section {
         flex: 0 100%;
     }
 
-    .contact-info {
-        text-align: center;
+    .contact-info p {
+        font-size: 15px;
     }
 
     .contact-info > * {
