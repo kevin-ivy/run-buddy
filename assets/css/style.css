@@ -679,6 +679,14 @@ section {
         grid-column: 1 / -1;
         grid-row: -1;
     }
+
+    .trainer-img h3, .trainer-img h4, .trainer-img::after {
+        display: none;
+    }
+
+    .trainer-bio h3, .trainer-bio h4 {
+        display: block;
+    }
 }
 
 /*Media query for mobile phones and smaller */
